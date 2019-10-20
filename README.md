@@ -18,4 +18,4 @@ Step 7: To the next message select ok and <Enter>
 Step 8: Type the command:
 	$>> ls /dev
 	check for serial0->ttyS0 & serial1->ttyAMA0
-Step 9: python3 gps.py
+Step 9: sudo python3 gps.py
